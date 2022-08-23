@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.bgnav{
+    background-color: rgb(27, 27, 121);
+}
+.navbar-brand{
+    font-weight: bold;
+    padding-left: 20px;
+}
+.fondo1{
+    height: 481px;
+    width: 100%;
+    background-image: url(../multimedia/decorated-banquet-hall-with-flowers.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fondo2{
+    height: 815px;
+    width: 100%;
+    background-image: url(../multimedia/decorated-wedding-hall-with-candles-round-tables-and-centerpieces.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fondo3{
+    height: 600px;
+    width: 100%;
+    background-image: url(../multimedia/waiter-keeps-salver-with-snacks.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fondo4{
+    height: 665px;
+    width: 100%;
+    background-image: url(../multimedia/manhattan-street-signs-and-skyscrapers-from-below-view.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.fondo5{
+    height: 700px;
+    width: 100%;
+    background-image: url(../multimedia/business-handshake-of-two-men-demonstrating-their-agreement-to-sign-agreement-or-contract-between-their-firms-companies-enterprises.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.jumbotron{
+    border-radius: 0;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: white;
+    filter: opacity(70%);
+    text-align: center;
+    height: 350px;
+    overflow: scroll;
+}
+.jumbotron h1{
+    padding-bottom: 50px;
+    font: bold;
+    text-align: center;
+    font-size: 32px;
+    padding-top: 40px;
+}
+.jumbotron p{
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+.jumbotron .bienvenido{
+    padding-top: 22px;
+    font: bold;
+    text-align: center;
+    font-size: 22px;
+}
+.btn-info{
+    color: white;
+    background-color: rgb(27, 27, 121);
+    border: 1px solid white;
+}
+.form-group{
+    color: white;
+    background-color: black;
+}
+footer{
+    background-color: rgb(27, 27, 121);
+    margin: 0;
+    padding: 0;
+    height: 120px;
+}
+footer p{
+    padding-top: 15px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+footer .redes{
+    padding-top: 35px;
+    font-size: 23px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+footer .redes i{
+    padding-left: 22px;
+    color: white;
+}
+footer .redes i:hover{
+    color: rgb(25, 117, 129);
+    font-size: 25px;
+}
